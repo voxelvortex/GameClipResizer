@@ -3,7 +3,7 @@ Author: Michael Scalzetti
 github.com/voxelvortex
 encoder.py
 
-This file runs the main bit of logic for the program to run properly
+This file is used to re-encode video using ffmpeg
 """
 import os
 
